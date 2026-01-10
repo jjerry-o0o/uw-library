@@ -1,0 +1,14 @@
+dist
+.npmrc
+.yaml
+vite.config.js
+vite.config.ts
+**/*/node_modules
+**/*/__tests__
+*.html
+*.d.ts
+*.md
+public
+*.css
+*.png
+*.ico

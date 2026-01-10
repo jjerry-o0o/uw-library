@@ -9,6 +9,17 @@
     "check-types": "turbo run check-types"
   },
   "devDependencies": {
+    "@tanstack/eslint-plugin-query": "^5.91.2",
+    "@types/node": "^25.0.3",
+    "@typescript-eslint/eslint-plugin": "^8.52.0",
+    "@typescript-eslint/parser": "^8.52.0",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-import-resolver-typescript": "^4.4.4",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-prettier": "^5.5.4",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.0.1",
     "prettier": "^3.7.4",
     "turbo": "^2.7.3",
     "typescript": "5.9.2"
