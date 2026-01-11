@@ -1,7 +1,7 @@
 const Search = () => {
   return (
-    <div>
-      <p>검색 화면입니다</p>
+    <div className="min-h-full flex flex-col">
+      <p>찾으시는 도서를 검색해보세요</p>
       <select name="searchType" id="searchType">
         <option value="ALL">전체</option>
         <option value="TITLE">도서명</option>
@@ -33,7 +33,7 @@ const Search = () => {
           <div>
             <img src="" alt="" />
             <span>book</span>
-            <br/>
+            <br />
             <button>책드림신청</button>
             <button>무인예약신청</button>
             <button>도서예약신청</button>

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "모순",
+    "author": "양귀자",
+    "publisher": "쓰다",
+    "pubDate": "2013-04-01",
+    "categoryCode": "810",
+    "imageUrl": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788998441012.jpg"
+  },
+  {
+    "id": 2,
+    "title": "사피엔스",
+    "author": "유발 하라리",
+    "publisher": "김영사",
+    "pubDate": "2015-11-23",
+    "categoryCode": "001",
+    "imageUrl": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788934972464.jpg"
+  },
+  {
+    "id": 3,
+    "title": "불편한 편의점",
+    "author": "김호연",
+    "publisher": "나무옆의자",
+    "pubDate": "2021-04-20",
+    "categoryCode": "810",
+    "imageUrl": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791161571188.jpg"
+  },
+  {
+    "id": 4,
+    "title": "생각에 관한 생각",
+    "author": "대니얼 카너먼",
+    "publisher": "김영사",
+    "pubDate": "2012-03-20",
+    "categoryCode": "180",
+    "imageUrl": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788934956327.jpg"
+  },
+  {
+    "id": 5,
+    "title": "클린 코드",
+    "author": "로버트 C. 마틴",
+    "publisher": "인사이트",
+    "pubDate": "2013-12-24",
+    "categoryCode": "004",
+    "imageUrl": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788966260959.jpg"
+  }
+]

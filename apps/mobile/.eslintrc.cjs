@@ -4,4 +4,9 @@ module.exports = {
     project: ['./tsconfig.app.json', './tsconfig.node.json'],
     tsconfigRootDir: __dirname,
   },
+  settings: {
+    'import/resolver': {
+      typescript: { project: './tsconfig.json' },
+    },
+  },
 };
